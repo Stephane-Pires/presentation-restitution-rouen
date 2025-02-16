@@ -1,4 +1,4 @@
-# Après
+# 📆 Après
 
   * <div v-click> <Variant type="warning">Fin Mars</Variant> : Logger</div>
   * <div v-click> <Variant type="warning">Fin Avril</Variant> : Progression + Risque Leakmited</div>

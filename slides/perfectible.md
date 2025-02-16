@@ -1,6 +1,5 @@
-# Perfectible
+# 🔧 Corriger 
 
-   - <div v-click> Gérer les problèmes</div>
-   -  <div v-click><Variant type="warning">Rapide</Variant> : Gérer maintenant </div>
-   -  <div v-click><Variant type="warning">Fonctionnel</Variant>  : Planifier </div>
+   -  <div v-click><Variant type="warning">🐛 Simple & Rapide </Variant> : Gérer sur place </div>
+   -  <div v-click><Variant type="warning">📌 Complexe & long</Variant>  : Planifier et transmettre à l'équipe </div>
  
