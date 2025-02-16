@@ -1,8 +1,5 @@
----
-title: 'Objectif : Liste'
----
 
-# Objectif : Que ça soit utilisé
+# Fonctionnalitées
 
  * <div v-click>  1 )  <Variant type="warning">Fonctionnement : Analyse : </Variant></div>
      <div v-click>Secteurs : Pertinence de la découpe. </div>

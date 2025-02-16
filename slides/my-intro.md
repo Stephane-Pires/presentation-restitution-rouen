@@ -1,10 +1,9 @@
 ---
-title: Me, Myself & I ❤️
+title: Me, Myself & I ❤️ (Estelle)
 ---
 
 # Me, Myself & I ❤️ 
 
-* Chef de produit 
-* J'aime : X,Y,Z
+* Product Manager 
 * Localiser : Paris
 

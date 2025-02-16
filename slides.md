@@ -38,6 +38,17 @@ presenterImage: 'images/estelle.jpeg'
 ---
 
 ---
+layout: intro
+src: ./slides/stephane-intro.md
+presenterImage: 'images/portrait.jpeg'
+---
+
+---
+layout: center
+src: ./slides/notre-role.md
+---
+
+---
 layout: image-right
 src: ./slides/image-right.md
 image: ./images/leakmited.jpeg
