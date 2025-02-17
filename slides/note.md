@@ -5,4 +5,3 @@
 Gérer les fiches fuites. Destinataire : Geoffroy Dudouble & Tony Duval 
 
 - 📱 __Version Mobile__ :  Destiné au chercheur de fuite. Destinatire : Christophe LEMOINE, Gauguin KIZINGOU-MAKELE, Stéphane Levacher, Christophe Brument
-

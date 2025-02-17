@@ -54,11 +54,25 @@ src: ./slides/image-right.md
 image: ./images/leakmited.jpeg
 ---
 
+---
+layout: image
+src: ./slides/user-journey.md
+image: ./images/user-journey.png
+---
+
 
 
 ---
-layout: center
-src: ./slides/note.md
+layout: image-left
+src: ./slides/livrable-web.md
+image: ./images/sentinel-screenshot.png
+---
+
+
+---
+layout: image-right
+src: ./slides/livrable-mobile.md
+image: ./images/sentinel-mobile-screenshot.png
 ---
 
 
@@ -71,10 +85,7 @@ number: 2
 
 
 
----
-layout: center
-src: ./slides/variants.md
----
+
 
 
 
@@ -93,6 +104,11 @@ src: ./slides/exploitant.md
 ---
 layout: center
 src: ./slides/plan.md
+---
+
+---
+layout: center
+src: ./slides/variants.md
 ---
 
 ---
@@ -119,14 +135,6 @@ src: ./slides/apres.md
 layout: center
 src: ./slides/relation.md
 ---
-
-
-
-
-
-
-
-
 
 ---
 layout: feedback

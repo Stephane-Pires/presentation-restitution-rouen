@@ -1,9 +1,10 @@
 ---
-title: Me, Myself & I ❤️ (Estelle)
+title: # Estelle Dubois-Vignal 
 ---
 
-# Me, Myself & I ❤️ 
+# Estelle Dubois-Vignal 
 
-* Product Manager 
-* Localiser : Paris
-
+* 💻 : Chef de produit (Sprint, Twin, Sentinel)
+* 💻 : Thalès (santé), Siemens transport
+* 🎂 : +20 années d'expérience
+* 📍 : Paris - Rouen
