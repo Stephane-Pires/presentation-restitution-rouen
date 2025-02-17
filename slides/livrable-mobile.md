@@ -1,4 +1,4 @@
-# 📱 Livrable Web
+# 📱 Livrable Mobile
 
 
 <div v-click class="py-2"> Permet de déclarer les fiches fuite et de s'orienter sur le terrain</div>
