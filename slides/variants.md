@@ -1,11 +1,13 @@
 
 # ⚙️ Fonctionnalitées
 
- * <div v-click>  1 )  <Variant type="warning">Fonctionnement : Analyse : </Variant></div>
-     <div v-click>Secteurs : Pertinence de la découpe. </div>
-     <div v-click>Indicateur : Eau mis en distribution, autres ?</div>
-     <div v-click>Carte : Utilisation et interprétation</div>
- * <div v-click>  2) <Variant type="warning">Fonctionnement : Gestion des fuites</Variant></div>
-     <div v-click>Ordonnance : Qui permet de regrouper une recherche de fuite</div>
-     <div v-click>Fuites : Qui permet de visualiser les fuites et les gérer</div>
+ <div v-click class="py-2">🗺️ Carte : Visualisation, fuites, accessoires, logger, etc..</div>
+
+ <div v-click class="py-2">📉 Indicateurs : Volume mis en service</div>
+ 
+ <div v-click class="py-2">🚧 Secteur : Identifier les zones à risques</div>
+ 
+ <div v-click class="py-2">📋 Ordonnance : Gérer la recherche </div>
+ 
+ <div v-click class="py-2">💧 Fuites : Permet de suivre les fuites</div>
 
